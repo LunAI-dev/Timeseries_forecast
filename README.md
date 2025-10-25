@@ -2,8 +2,7 @@
 
 A hybrid time series forecasting pipeline for **revenue and operational KPIs**, designed for realistic business scenarios where interpretability and robustness matter more than novelty.
 
-This notebook is part of an internal data science framework focused on **practical forecasting pipelines**, not academic benchmarks.  
-The goal is to test how traditional statistical models (ARIMA, Prophet) can be blended with tree-based methods (XGBoost) to deliver stable, explainable forecasts across different time horizons.
+This experiment is part of my [Data Science Lab](https://github.com/LunAI-dev/data-science-lab); a playground of applied ML and DL experiments where chaos meets logic.
 
 ---
 
